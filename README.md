@@ -1,4 +1,3 @@
-# Aysnc-Telegram-File-Transfer-with-Fernet-Encryption
-Aysnc Telegram File Transfer with Fernet Encryption
+#SplitX
 
 Lokesh Kumaran R
